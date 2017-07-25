@@ -2,7 +2,9 @@
 
 ### What is this?
 
-This is a list of conferences which shows how much various conferences pay for travel and other expenses. It can help you find conferences which cover all of your needs so you are actually able to attend.
+This is a list of conferences which shows how much various conferences pay for a speakers' travel and other expenses. It can help you find conferences which cover all of your needs so you are actually able to attend.
+
+It also shows if a conference supports diversity with an initiative such as Diversity Tickets.
 
 The idea behind this was sparked by [Lukas Eder](https://twitter.com/lukaseder/status/889837600776871936) after a GoFundMe campaign by [Laurent Bourgès](https://www.gofundme.com/javaone-2017-travel-costs).
 
