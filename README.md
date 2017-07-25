@@ -33,9 +33,10 @@ If the conference covers only part of the costs, please add an annotation in par
 | JavaOne | [oracle.com/javaone](http://oracle.com/javaone) | :x: | :x: | :x: | - |
 | RuhrJS | [ruhrjs.de](https://ruhrjs.de/) |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - |
 | JSConf EU | [jsconf.eu](https://jsconf.eu) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - |
+| CSSConf EU | [cssconf.eu](https://cssconf.eu) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - |
 
 #### Credit
 
 [Lukas Eder](http://twitter.com/lukaseder) - Idea  
-[Mario Zechner](http://twitter.com/badlogicgames) - Moral support  
+[Mario Zechner](http://twitter.com/badlogicgames) - Moral support and contribution 
 [Richard Blechinger](http://twitter.com/_pretzelhands) - Repo
