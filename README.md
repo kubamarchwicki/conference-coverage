@@ -29,6 +29,7 @@ If the conference covers only part of the costs, please add an annotation in par
 | Conference name | Website | Travel? | Accommodation? | Diversity initative? | Other expenses? |
 | --- | --- | --- | --- | --- | --- |
 | JavaOne | [oracle.com/javaone](http://oracle.com/javaone) | :x: | :x: | :x: | :question: |
+| RuhrJS | [ruhrjs.de](https://ruhrjs.de/) |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question: |
 
 #### Credit
 
