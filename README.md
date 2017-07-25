@@ -35,6 +35,7 @@ If the conference covers only part of the costs, please add an annotation in par
 | JSConf EU | [jsconf.eu](https://jsconf.eu) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - |
 | CSSConf EU | [cssconf.eu](https://cssconf.eu) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - |
 | GeeCON | [geecon.org](https://geecon.org/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | - |
+| JDD | [jdd.org.pl](https://jdd.org.pl/) | :heavy_check_mark: | :heavy_check_mark: | - | - |
 
 
 #### Credit
