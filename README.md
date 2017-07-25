@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This is a list of conferences which shows how much various conferences pay for a speakers' travel and other expenses. It can help you find conferences which cover all of your needs so you are actually able to attend.
+This is a list of conferences which shows how much various conferences pay for a speakers' travel and other expenses. It can help you find conferences which cover all of your needs so you are actually able to attend and give your talk.
 
 It also shows if a conference supports diversity with an initiative such as Diversity Tickets.
 
