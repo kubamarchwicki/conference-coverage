@@ -40,5 +40,5 @@ If the conference covers only part of the costs, please add an annotation in par
 #### Credit
 
 [Lukas Eder](http://twitter.com/lukaseder) - Idea  
-[Mario Zechner](http://twitter.com/badlogicgames) - Moral support and contribution 
+[Mario Zechner](http://twitter.com/badlogicgames) - Moral support and contribution  
 [Richard Blechinger](http://twitter.com/_pretzelhands) - Repo
