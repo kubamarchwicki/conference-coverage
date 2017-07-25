@@ -24,7 +24,7 @@ If the conference covers only part of the costs, please add an annotation in par
 
 > :heavy_check_mark: (50% of travel)
 
-| Conference name | Website | Travel? | Accomodation? | Diversity initative? | Other expenses? |
+| Conference name | Website | Travel? | Accommodation? | Diversity initative? | Other expenses? |
 | --- | --- | --- | --- | --- | --- |
 | JavaOne | [oracle.com/javaone](http://oracle.com/javaone) | :x: | :x: | :x: | :question: |
 
